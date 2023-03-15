@@ -34,7 +34,7 @@ std::vector<std::string> OrigDict = {
     "魔怔",
     "道歉",
     "前途",
-    "自杀",
+    "  ",
     "路人"
 };
 
